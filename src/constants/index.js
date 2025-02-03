@@ -119,10 +119,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "july 2023 - September 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      " Executed a responsive and dynamic website project during a 4-week internship and training program for GGSIPU students, addressing problem statements with innovative solutions and ensuring user-friendly design.",
+      " Delivered impactful results by enhancing the usability and interactivity of the website, meeting program objectives effectively.",
+      "engthened team management, collaboration, and leadership skills by guiding peers, delegating tasks, and maintaining effective communication to ensure project milestones were achieved within the specified timeframe.",
     ],
   },
 ];
@@ -184,7 +183,7 @@ const projects = [
   {
     name: "RealTime GPS Tracker",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "This project allows you to track the real-time location of mobile devices using GPS and display the markers on a map. The location data is transmitted using WebSockets and displayed using Leaflet.js. The project works on both mobile and desktop devices, with each device's location displayed as a marker on the map.",
     tags: [
       {
         name: "Html",
@@ -204,7 +203,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Shivam-Gopal/Realtime-Tracking-System",
   },
 ];
 
