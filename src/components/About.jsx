@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm Shivam Gopal from Delhi, a B.Tech graduate in Information Technology from Guru Gobind Singh Indraprastha University. Currently, I’m enhancing my web development skills at Masai School, where I’ve built industry-relevant, hands-on expertise. Outside of coding, I’m a National-level chess player licensed by the All India Chess Federation, which has sharpened my analytical and strategic thinking. I’m also a passionate guitarist with a Grade 3 certification from Trinity College London, having performed as the lead guitarist at multiple events. Combining technical proficiency, problem-solving skills, and creative pursuits, I’m excited to tackle challenging opportunities and contribute meaningfully to impactful projects.
+        I'm Shivam Gopal from Delhi, a B.Tech graduate in Information Technology from Guru Gobind Singh Indraprastha University. Currently, I’m enhancing my web development skills at Masai School, where I’ve built industry-relevant, hands-on expertise. Outside of coding, I’m a National-level chess player licensed by the All India Chess Federation, which has sharpened my analytical and strategic thinking.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

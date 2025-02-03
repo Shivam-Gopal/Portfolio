@@ -183,7 +183,7 @@ const projects = [
   {
     name: "RealTime GPS Tracker",
     description:
-      "This project allows you to track the real-time location of mobile devices using GPS and display the markers on a map. The location data is transmitted using WebSockets and displayed using Leaflet.js. The project works on both mobile and desktop devices, with each device's location displayed as a marker on the map.",
+      "This project allows you to track the real-time location of mobile devices using GPS and display the markers on a map. The location data is transmitted using WebSockets and displayed using Leaflet.js. The project works on both mobile and desktop devices.",
     tags: [
       {
         name: "Html",

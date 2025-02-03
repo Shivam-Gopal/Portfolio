@@ -35,6 +35,11 @@ import carrent from "./Screenshot.png";
 import jobit from "./image.png";
 import tripguide from "./tripguide.png";
 
+import insta from "./instalogo.png";
+import linkedin from "./linkedinlogo.png";
+import leetcode from "./Leetcodelogo.png";
+import gfg from "./gfglogo.png";
+
 export {
   logo,
   backend,
@@ -68,5 +73,9 @@ export {
   cpp,
   openai,
   sql,
-  hub
+  hub,
+  insta,
+  linkedin,
+  leetcode,
+  gfg,
 };
